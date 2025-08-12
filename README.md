@@ -14,4 +14,4 @@ O objetivo é permitir análise e visualização de dados de forma simples e int
 - Gráficos interativos com plotly
 - Interface web fácil de usar, acessível direto do navegador
 
-- 
+  
